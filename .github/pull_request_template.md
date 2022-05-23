@@ -1,7 +1,7 @@
 # Software Update 
 #Reason is the reason for Pull Request?
-[ ] Formal Code Review 
-[ ] Integration Test 
+- [ ] Formal Code Review 
+- [ ] Integration Test 
 
 ### Description
 < Describe changes made and reasons for change >
