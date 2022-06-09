@@ -1,12 +1,12 @@
 # Software Update 
-### Reasonfor Pull Request?
+### Reason for Pull Request?
 - [ ] Formal Code Review 
 - [ ] Integration Test 
 
 ### Description
 < Describe changes made and reasons for change >
 ### Justification
-< Explain reasons for following minor update process and not a full validation or verification for changes 
+< Explain reasons for following minor update process and not a full validation or verification for changes, if it is major give us qpulse reference. 
 made >
   _______________________________________________________________________________________________________________________________________
 ## Testing
@@ -18,15 +18,12 @@ made >
 ___________________________________________________________________________________________________________________________________________
 ## Code review checklist
 < Place an X in the appropriate boxes >
-- [ ] Are you requesting to merge changes to development?
+
 - [ ] Has the pipeline/software been code reviewed on github? 
 - [ ] Is the test data easily accesible? 
 - [ ] Has the pipeline/software been run end to end by the tester? 
-
-## Integration test checklist
-
 - [ ] Has the pipeline/software version number been incremented? 
-- [ ] Are all relevant doccuments updated e.g. SOP, ReadME, 
+- [ ] Are all relevant doccuments updated e.g. SOP, ReadME, validation doccuments
 
 Pipeline specific:  
 - [ ] Has the pipeline version in the variables file been updated e.g. development > master 
